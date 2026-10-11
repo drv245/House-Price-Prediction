@@ -22,3 +22,6 @@ dataset and missing features like exact location or premium amenities.
 - Python, Pandas, NumPy
 - Scikit-learn (LinearRegression, train_test_split, r2_score, mean_absolute_error)
 - Matplotlib
+
+## Next Steps
+- Try Random Forest and compare its R² with Linear Regression  
